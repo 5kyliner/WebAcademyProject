@@ -7,6 +7,7 @@
 
 # # # Задача 02
 # import datetime
+
 # now = datetime.datetime.now()
 # a = int(input('Год рождения: '))
 # b = int(input('Номер месяца: '))
@@ -39,14 +40,14 @@
 # print ('*',(' ' * space)+(' ' * x),name,(' ' * space),'*')
 # print ('*' * 20)
 
-# # Задача 04'
+# Задача 04'
 # name = input('name: ')
-# c =  len (name)
+# c = len(name)
 # x = c % 2
 # # print (x)
 # space = int((20 - 6 - c) / 2)
 # print ('*' * 20)
-# print ('*',(' ' * space)+(' ' * x),name,(' ' * space),'*')
+# print ('*',' ' * space+' ' * x,name,' ' * space,'*')
 # print ('*' * 20)
 
 # # # Задача 05*
