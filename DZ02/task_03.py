@@ -1,5 +1,9 @@
 ﻿#task 03
-for i in range(10):
-    for j in range(10):
-        print(i,'x',j,'=',(i+1)*(j+1),end='\t')
+"""
+Вывести таблицу умножения на экран.
+"""
+
+for i in range(8):
+    for j in range(8):
+        print(i+2, 'x', j+2, '=' , (i+2) * (j+2), end='\t')
     print('\n')
