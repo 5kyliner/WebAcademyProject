@@ -1,4 +1,13 @@
-﻿# a = str(input("Pls enter student's 1stname\n>"))
+﻿#task 05
+"""
+Напишите программу, запрашивающую имя, фамилия, отчество и номер группы студента и выводящую введённые данные в следующем виде:
+ ************************************
+ *Лабораторная работа № 1   *
+ *Выполнил(а): ст. гр. ЗИ-123 *
+ *Иванов Андрей Петрович    *
+ ************************************
+"""
+# a = str(input("Pls enter student's 1stname\n>"))
 # b = str(input("Pls enter student's 2stname\n>"))
 # c = str(input("Pls enter student's patronymic\n>"))
 # d = str(input("Pls enter student's group No.\n>"))
