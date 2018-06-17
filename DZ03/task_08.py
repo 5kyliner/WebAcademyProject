@@ -8,11 +8,11 @@
 
 import time
 n1 = int(input('Введите номер числа Фибоначчи\n>'))
-n = n1
+n = n1 + 2
 l = n1
 def fib(n):
     if n < 3:
-        return 2
+        return 1
     return fib(n - 1) + fib(n - 2)
 start1 = time.time()
 print('Число Фиббоначи с номером ', n, ':', fib(n))
