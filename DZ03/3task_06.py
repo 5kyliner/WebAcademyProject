@@ -7,14 +7,15 @@
 >> 3
 
 """
-# a = str(input('Введите число\n>'))
-# print(len(a))
+import time
+a = str(input('Введите число\n>'))
+print(len(a))
 
-a = input('Введите число\n>')
-c = 0
-for n in a:
-    int(a) / 10 > 0
-    c += 1
-print(c)
-
+# a = input('Введите число\n>')
+# c = 0
+# for n in a:
+#     int(a) / 10 > 0
+#     c += 1
+# print(c)
+#
 
