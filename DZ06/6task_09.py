@@ -4,18 +4,17 @@
 чтобы каждое значение встречалось в списке только один раз.
 """
 # a = [-4, 2, -3, 4, -6, 4, 343]
-a = [1, 1, 2]
 
 def uniq_list(a):
-    b = a[0]
-    for i in range(len(a) - 1):
-        if a[i + 1] in b:
+    b = []
+    b.append(a[0])
+    for i in range(len(a)):
+        if a[i] in b:
             pass
         else:
-            b.append(a[i + 1])
+            b.append(a[i])
     return b
-print(uniq_list(a))
 
 
-# if __name__ == '__main__':
-#     assert uniq_list([1, 1, 2]) == [1, 2]
+if __name__ == '__main__':
+    assert uniq_list([1, 1, 2]) == [1, 2]
