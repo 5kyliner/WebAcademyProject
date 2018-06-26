@@ -2,19 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b026be1b-ab4e-4e70-985a-25d0c373142b" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/DZ07/task_01.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DZ06/6task_01.py" beforeDir="false" afterPath="$PROJECT_DIR$/DZ06/6task_01.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DZ06/6task_02.py" beforeDir="false" afterPath="$PROJECT_DIR$/DZ06/6task_02.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DZ06/6task_03.py" beforeDir="false" afterPath="$PROJECT_DIR$/DZ06/6task_03.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DZ06/6task_04.py" beforeDir="false" afterPath="$PROJECT_DIR$/DZ06/6task_04.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DZ06/6task_05.py" beforeDir="false" afterPath="$PROJECT_DIR$/DZ06/6task_05.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DZ06/6task_06.py" beforeDir="false" afterPath="$PROJECT_DIR$/DZ06/6task_06.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DZ06/6task_07.py" beforeDir="false" afterPath="$PROJECT_DIR$/DZ06/6task_07.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DZ06/6task_08.py" beforeDir="false" afterPath="$PROJECT_DIR$/DZ06/6task_08.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DZ06/6task_09.py" beforeDir="false" afterPath="$PROJECT_DIR$/DZ06/6task_09.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DZ06/6task_10.py" beforeDir="false" afterPath="$PROJECT_DIR$/DZ06/6task_10.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DZ06/6task_11.py" beforeDir="false" afterPath="$PROJECT_DIR$/DZ06/6task_11.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DZ06/6task_12.py" beforeDir="false" afterPath="$PROJECT_DIR$/DZ06/6task_12.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -50,17 +38,17 @@
       <file leaf-file-name="DZ06.py" pinned="false" current-in-tab="false">
         <entry file="file://$USER_HOME$/PycharmProjects/щту/venv/DZ06.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="477">
-              <caret line="239" selection-start-line="239" selection-end-line="242" />
+            <state relative-caret-position="409">
+              <caret line="243" selection-start-line="243" selection-end-line="258" selection-end-column="8" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="6task_11.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/DZ06/6task_11.py">
+      <file leaf-file-name="6task_12.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/DZ06/6task_12.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+            <state relative-caret-position="255">
+              <caret line="15" column="8" selection-start-line="15" selection-start-column="8" selection-end-line="15" selection-end-column="8" />
             </state>
           </provider>
         </entry>
@@ -128,14 +116,15 @@
         <option value="$PROJECT_DIR$/DZ07/task_01.py" />
         <option value="$USER_HOME$/PycharmProjects/щту/venv/CLASS_06.py" />
         <option value="$USER_HOME$/PycharmProjects/щту/venv/CLASS_08.py" />
-        <option value="$USER_HOME$/PycharmProjects/щту/venv/DZ06.py" />
         <option value="$PROJECT_DIR$/DZ06/6task_11.py" />
+        <option value="$USER_HOME$/PycharmProjects/щту/venv/DZ06.py" />
+        <option value="$PROJECT_DIR$/DZ06/6task_12.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="43" />
-    <option name="y" value="-23" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="182" />
+    <option name="y" value="81" />
     <option name="width" value="1056" />
     <option name="height" value="1027" />
   </component>
@@ -199,7 +188,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.DZ06">
+  <component name="RunManager" selected="Python.6task_12">
     <configuration name="6task_10" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="WebAcademyProject" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -218,6 +207,24 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
+    <configuration name="6task_12" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="WebAcademyProject" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DZ06" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DZ06/6task_12.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
     <configuration name="CLASS_06" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="WebAcademyProject" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -231,24 +238,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$USER_HOME$/PycharmProjects/щту/venv/CLASS_06.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
-    <configuration name="CLASS_08" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="WebAcademyProject" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$USER_HOME$/PycharmProjects/щту/venv" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$USER_HOME$/PycharmProjects/щту/venv/CLASS_08.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -293,17 +282,17 @@
     <list>
       <item itemvalue="Python.CLASS_06" />
       <item itemvalue="Python.DZ04" />
-      <item itemvalue="Python.CLASS_08" />
       <item itemvalue="Python.6task_10" />
       <item itemvalue="Python.DZ06" />
+      <item itemvalue="Python.6task_12" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.6task_12" />
         <item itemvalue="Python.DZ06" />
         <item itemvalue="Python.6task_10" />
         <item itemvalue="Python.DZ04" />
         <item itemvalue="Python.CLASS_06" />
-        <item itemvalue="Python.CLASS_08" />
       </list>
     </recent_temporary>
   </component>
@@ -364,17 +353,10 @@
           </properties>
         </breakpoint>
       </default-breakpoints>
-      <option name="time" value="30" />
+      <option name="time" value="34" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$USER_HOME$/PycharmProjects/щту/venv/DZ03.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1530">
-          <caret line="90" selection-start-line="90" selection-end-line="91" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$USER_HOME$/PycharmProjects/щту/venv/DZ04.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1156">
@@ -589,17 +571,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/PycharmProjects/щту/venv/DZ06.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="477">
-          <caret line="239" selection-start-line="239" selection-end-line="242" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/DZ06/6task_11.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
           <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/PycharmProjects/щту/venv/DZ06.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="409">
+          <caret line="243" selection-start-line="243" selection-end-line="258" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DZ06/6task_12.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="8" selection-start-line="15" selection-start-column="8" selection-end-line="15" selection-end-column="8" />
         </state>
       </provider>
     </entry>
