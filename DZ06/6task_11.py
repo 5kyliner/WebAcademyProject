@@ -5,6 +5,13 @@
 элементов. [1,2,3] -> {1:1, 2:4, 3:9}
 """
 
-a = [1, 2, 3]
-b = {key: key ** 2 for key in a}
-print(b)
+# a = [1, 2, 3]
+
+def list_to_dict(a):
+    b = {key: key ** 2 for key in a}
+    return b
+
+# print(b)
+
+if __name__ == '__main__':
+    assert list_to_dict([1, 2, 3]) == {1: 1, 2: 4, 3: 9}

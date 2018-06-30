@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b026be1b-ab4e-4e70-985a-25d0c373142b" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DZ06/6task_11.py" beforeDir="false" afterPath="$PROJECT_DIR$/DZ06/6task_11.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/DZ06/6task_12.py" beforeDir="false" afterPath="$PROJECT_DIR$/DZ06/6task_12.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DZ06/6task_13.py" beforeDir="false" afterPath="$PROJECT_DIR$/DZ06/6task_13.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DZ07/task_01.py" beforeDir="false" afterPath="$PROJECT_DIR$/DZ07/task_01.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -17,11 +21,29 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="DZ02^.py" pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/PycharmProjects/щту/venv/DZ02^.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1153">
+              <caret selection-end-line="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DZ02.py" pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/PycharmProjects/щту/venv/DZ02.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="223">
+              <caret line="87" column="91" lean-forward="true" selection-start-line="87" selection-start-column="65" selection-end-line="87" selection-end-column="91" />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="DZ03.py" pinned="false" current-in-tab="false">
         <entry file="file://$USER_HOME$/PycharmProjects/щту/venv/DZ03.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1530">
-              <caret line="90" selection-start-line="90" selection-end-line="91" />
+            <state relative-caret-position="319">
+              <caret line="191" column="13" selection-start-line="191" selection-start-column="13" selection-end-line="191" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -29,8 +51,17 @@
       <file leaf-file-name="DZ04.py" pinned="false" current-in-tab="false">
         <entry file="file://$USER_HOME$/PycharmProjects/щту/venv/DZ04.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1088">
+            <state relative-caret-position="-481">
               <caret line="64" column="9" selection-start-line="64" selection-start-column="9" selection-end-line="64" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DZ05.py" pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/PycharmProjects/щту/venv/DZ05.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="80">
+              <caret line="5" selection-start-line="5" selection-end-line="6" />
             </state>
           </provider>
         </entry>
@@ -38,35 +69,35 @@
       <file leaf-file-name="DZ06.py" pinned="false" current-in-tab="false">
         <entry file="file://$USER_HOME$/PycharmProjects/щту/venv/DZ06.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="409">
-              <caret line="243" selection-start-line="243" selection-end-line="258" selection-end-column="8" />
+            <state relative-caret-position="-1">
+              <caret line="213" column="3" lean-forward="true" selection-start-line="213" selection-start-column="3" selection-end-line="213" selection-end-column="3" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="6task_12.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/DZ06/6task_12.py">
+      <file leaf-file-name="DZ07.py" pinned="false" current-in-tab="true">
+        <entry file="file://$USER_HOME$/PycharmProjects/щту/venv/DZ07.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="15" column="8" selection-start-line="15" selection-start-column="8" selection-end-line="15" selection-end-column="8" />
+            <state relative-caret-position="367">
+              <caret line="214" lean-forward="true" selection-start-line="158" selection-end-line="214" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="CLASS_06.py" pinned="false" current-in-tab="false">
-        <entry file="file://$USER_HOME$/PycharmProjects/щту/venv/CLASS_06.py">
+      <file leaf-file-name="builtins.py" pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/.PyCharmCE2018.1/system/python_stubs/-1848633119/builtins.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="3825">
-              <caret line="225" selection-start-line="225" selection-end-line="247" selection-end-column="45" />
+            <state relative-caret-position="-7">
+              <caret line="809" column="23" selection-start-line="809" selection-start-column="23" selection-end-line="809" selection-end-column="23" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="task_01.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/DZ07/task_01.py">
+      <file leaf-file-name="converter.py" pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/PycharmProjects/щту/venv/07/converter.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="391">
-              <caret line="23" selection-start-line="23" selection-end-line="23" />
+            <state relative-caret-position="47">
+              <caret line="14" selection-start-line="14" selection-end-line="14" />
             </state>
           </provider>
         </entry>
@@ -113,26 +144,32 @@
         <option value="$PROJECT_DIR$/DZ06/6task_08.py" />
         <option value="$PROJECT_DIR$/DZ06/6task_10.py" />
         <option value="$PROJECT_DIR$/DZ06/6task_09.py" />
-        <option value="$PROJECT_DIR$/DZ07/task_01.py" />
-        <option value="$USER_HOME$/PycharmProjects/щту/venv/CLASS_06.py" />
         <option value="$USER_HOME$/PycharmProjects/щту/venv/CLASS_08.py" />
         <option value="$PROJECT_DIR$/DZ06/6task_11.py" />
         <option value="$USER_HOME$/PycharmProjects/щту/venv/DZ06.py" />
         <option value="$PROJECT_DIR$/DZ06/6task_12.py" />
+        <option value="$USER_HOME$/PycharmProjects/щту/venv/CLASS_06.py" />
+        <option value="$PROJECT_DIR$/DZ06/6task_13.py" />
+        <option value="$USER_HOME$/PycharmProjects/щту/venv/07/converter.py" />
+        <option value="$PROJECT_DIR$/DZ07/task_01.py" />
+        <option value="$USER_HOME$/PycharmProjects/щту/venv/07/ADDDD.py" />
+        <option value="$USER_HOME$/PycharmProjects/щту/venv/DZ02.py" />
+        <option value="$USER_HOME$/PycharmProjects/щту/venv/DZ07.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="182" />
-    <option name="y" value="81" />
-    <option name="width" value="1056" />
-    <option name="height" value="1027" />
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1066" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -164,12 +201,11 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="last_opened_file_path" value="$USER_HOME$/PycharmProjects/щту/venv" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -188,8 +224,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.6task_12">
-    <configuration name="6task_10" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.DZ07">
+    <configuration name="ADDDD" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="WebAcademyProject" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -197,35 +233,17 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DZ06" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/PycharmProjects/щту/venv/07" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DZ06/6task_10.py" />
+      <option name="SCRIPT_NAME" value="$USER_HOME$/PycharmProjects/щту/venv/07/ADDDD.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="6task_12" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="WebAcademyProject" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DZ06" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DZ06/6task_12.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
-    <configuration name="CLASS_06" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="DZ02" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="WebAcademyProject" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -237,13 +255,13 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$USER_HOME$/PycharmProjects/щту/venv/CLASS_06.py" />
+      <option name="SCRIPT_NAME" value="$USER_HOME$/PycharmProjects/щту/venv/DZ02.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="DZ04" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="DZ07" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="WebAcademyProject" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -255,13 +273,13 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$USER_HOME$/PycharmProjects/щту/venv/DZ04.py" />
+      <option name="SCRIPT_NAME" value="$USER_HOME$/PycharmProjects/щту/venv/DZ07.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="DZ06" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="converter" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="WebAcademyProject" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -269,30 +287,48 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$USER_HOME$/PycharmProjects/щту/venv" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/PycharmProjects/щту/venv/07" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$USER_HOME$/PycharmProjects/щту/venv/DZ06.py" />
+      <option name="SCRIPT_NAME" value="$USER_HOME$/PycharmProjects/щту/venv/07/converter.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="task_01" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="WebAcademyProject" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DZ07" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DZ07/task_01.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
     <list>
-      <item itemvalue="Python.CLASS_06" />
-      <item itemvalue="Python.DZ04" />
-      <item itemvalue="Python.6task_10" />
-      <item itemvalue="Python.DZ06" />
-      <item itemvalue="Python.6task_12" />
+      <item itemvalue="Python.converter" />
+      <item itemvalue="Python.task_01" />
+      <item itemvalue="Python.DZ07" />
+      <item itemvalue="Python.ADDDD" />
+      <item itemvalue="Python.DZ02" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.6task_12" />
-        <item itemvalue="Python.DZ06" />
-        <item itemvalue="Python.6task_10" />
-        <item itemvalue="Python.DZ04" />
-        <item itemvalue="Python.CLASS_06" />
+        <item itemvalue="Python.DZ07" />
+        <item itemvalue="Python.DZ02" />
+        <item itemvalue="Python.ADDDD" />
+        <item itemvalue="Python.task_01" />
+        <item itemvalue="Python.converter" />
       </list>
     </recent_temporary>
   </component>
@@ -322,16 +358,16 @@
     <frame x="-8" y="-8" width="1696" height="1036" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4937063" visible="true" weight="0.1628468" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4937063" visible="true" weight="0.1646562" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.3291714" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" weight="0.3291714" />
       <window_info anchor="bottom" id="Python Console" order="7" weight="0.3291714" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.18842225" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.41657206" />
       <window_info id="Structure" order="1" sideWeight="0.5062937" side_tool="true" weight="0.1628468" />
-      <window_info anchor="bottom" id="Terminal" order="8" weight="0.3291714" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.33938706" />
       <window_info id="Favorites" order="2" show_stripe_button="false" sideWeight="0.50056756" side_tool="true" weight="0.24969843" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39954597" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3589462" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -340,6 +376,25 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Find" order="1" />
     </layout>
+    <layout-to-restore>
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4937063" weight="0.1628468" />
+      <window_info id="Structure" order="1" sideWeight="0.5062937" side_tool="true" weight="0.1628468" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.3291714" />
+      <window_info anchor="bottom" id="Version Control" order="9" weight="0.3291714" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.18842225" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39954597" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.3291714" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info id="Favorites" order="2" show_stripe_button="false" sideWeight="0.50056756" side_tool="true" weight="0.24969843" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Python Console" order="7" weight="0.3291714" />
+    </layout-to-restore>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
@@ -353,48 +408,10 @@
           </properties>
         </breakpoint>
       </default-breakpoints>
-      <option name="time" value="34" />
+      <option name="time" value="89" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$USER_HOME$/PycharmProjects/щту/venv/DZ04.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1156">
-          <caret line="68" column="12" lean-forward="true" selection-start-line="68" selection-start-column="12" selection-end-line="68" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/PycharmProjects/щту/venv/DZ02.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$USER_HOME$/PycharmProjects/щту/venv/DZ02^.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DZ07/task_01.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="19" column="1" lean-forward="true" selection-start-line="19" selection-start-column="1" selection-end-line="19" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/PycharmProjects/щту/venv/CLASS_06.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2601">
-          <caret line="153" column="59" selection-start-line="153" selection-start-column="59" selection-end-line="153" selection-end-column="59" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/PycharmProjects/щту/venv/DZ03.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" selection-start-line="12" selection-end-line="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/DZ03/3task_08.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="306">
@@ -492,16 +509,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/PycharmProjects/щту/venv/DZ01.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$USER_HOME$/PycharmProjects/щту/venv/DZ03.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1530">
-          <caret line="90" selection-start-line="90" selection-end-line="91" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$USER_HOME$/PycharmProjects/щту/venv/CLASS_08.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="306">
@@ -512,48 +519,10 @@
     <entry file="file://$PROJECT_DIR$/venv - Ярлык.lnk">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$USER_HOME$/PycharmProjects/щту/venv/CLASS_06.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3825">
-          <caret line="225" selection-start-line="225" selection-end-line="247" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/PycharmProjects/щту/venv/DZ02.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$USER_HOME$/PycharmProjects/щту/venv/DZ04.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1088">
-          <caret line="64" column="9" selection-start-line="64" selection-start-column="9" selection-end-line="64" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/PycharmProjects/щту/venv/DZ05.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="13" lean-forward="true" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/DZ06/6task_06.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
           <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DZ06/6task_10.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DZ07/task_01.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="23" selection-start-line="23" selection-end-line="23" />
         </state>
       </provider>
     </entry>
@@ -564,31 +533,125 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/PycharmProjects/щту/venv/DZ02^.py">
+    <entry file="file://$PROJECT_DIR$/DZ06/6task_10.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="1" />
+        <state relative-caret-position="272">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/DZ06/6task_11.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/PycharmProjects/щту/venv/DZ06.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="409">
-          <caret line="243" selection-start-line="243" selection-end-line="258" selection-end-column="8" />
+        <state relative-caret-position="153">
+          <caret line="9" column="20" lean-forward="true" selection-start-line="9" selection-start-column="20" selection-end-line="9" selection-end-column="20" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/DZ06/6task_12.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="8" selection-start-line="15" selection-start-column="8" selection-end-line="15" selection-end-column="8" />
+        <state relative-caret-position="578">
+          <caret line="34" lean-forward="true" selection-start-line="34" selection-end-line="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/PycharmProjects/щту/venv/07/06_home_task_1.rtf">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DZ06/6task_13.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="1" lean-forward="true" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DZ07/task_01.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="6" column="10" lean-forward="true" selection-start-line="6" selection-start-column="10" selection-end-line="6" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/PycharmProjects/щту/venv/CLASS_06.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="293">
+          <caret line="269" column="9" selection-start-line="269" selection-start-column="9" selection-end-line="269" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/PycharmProjects/щту/venv/07/ADDDD.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="16">
+          <caret line="1" column="33" selection-start-line="1" selection-start-column="33" selection-end-line="1" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/PycharmProjects/щту/venv/07/converter.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="47">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharmCE2018.1/system/python_stubs/-1848633119/builtins.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-7">
+          <caret line="809" column="23" selection-start-line="809" selection-start-column="23" selection-end-line="809" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/PycharmProjects/щту/venv/DZ05.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="5" selection-start-line="5" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/PycharmProjects/щту/venv/DZ01.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="239">
+          <caret line="42" selection-start-line="42" selection-end-line="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/PycharmProjects/щту/venv/DZ06.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1">
+          <caret line="213" column="3" lean-forward="true" selection-start-line="213" selection-start-column="3" selection-end-line="213" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/PycharmProjects/щту/venv/DZ02^.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1153">
+          <caret selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/PycharmProjects/щту/venv/DZ04.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-481">
+          <caret line="64" column="9" selection-start-line="64" selection-start-column="9" selection-end-line="64" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/PycharmProjects/щту/venv/DZ03.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="319">
+          <caret line="191" column="13" selection-start-line="191" selection-start-column="13" selection-end-line="191" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/PycharmProjects/щту/venv/DZ02.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="223">
+          <caret line="87" column="91" lean-forward="true" selection-start-line="87" selection-start-column="65" selection-end-line="87" selection-end-column="91" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/PycharmProjects/щту/venv/DZ07.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="367">
+          <caret line="214" lean-forward="true" selection-start-line="158" selection-end-line="214" />
         </state>
       </provider>
     </entry>
