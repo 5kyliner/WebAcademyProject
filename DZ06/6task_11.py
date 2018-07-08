@@ -8,6 +8,7 @@
 # a = [1, 2, 3]
 
 def list_to_dict(a):
+    # b = dict([[i, i ** 2] for i in a])
     b = {key: key ** 2 for key in a}
     return b
 
