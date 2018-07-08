@@ -8,14 +8,21 @@
 #
 # c = []
 
+# def intersection_ordered(a, b):
+#     c = []
+#     for i in range(len(a)):
+#         for j in range(len(b)):
+#             if a[i] == b[j]:
+#                 c.append(a[i])
+#     return c
 
 def intersection_ordered(a, b):
     c = []
-    for i in range(len(a)):
-        for j in range(len(b)):
-            if a[i] == b[j]:
-                c.append(a[i])
+    for i in a:
+        if i in b:
+            c.append(i)
     return c
+
 
 if __name__ == '__main__':
     assert intersection_ordered([1, 2, 3], [3, 5, 4]) == [3]
